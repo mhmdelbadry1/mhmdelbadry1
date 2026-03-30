@@ -38,7 +38,12 @@
 
 ###
 
-<p align="left">🔭 I’m working as an AI Engineer<br><br>📚 I’m currently working on my graduation project and learning advanced machine learning, keeping myself updated with the latest AI technologies; I enjoy reading research papers and implementing new ideas, combining multiple approaches into innovative projects<br><br>⚡ In my free time, I work on freelance projects</p>
+<p align="left">
+  🔭 <b>I’m currently working on</b> engineering robust AI systems and scalable backend infrastructures for diverse clients.<br><br>
+  📚 <b>I’m deep diving into</b> LLM fine-tuning, Agentic Workflows, and Edge AI deployment for my graduation project. I'm passionate about implementing state-of-the-art research into real-world, high-performance applications.<br><br>
+  ⚡ <b>Fact:</b> When I'm not studying, I'm usually solving complex deployment challenges or building automation pipelines on Vast.ai and AWS.
+</p>
+
 
 ###
 
