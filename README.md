@@ -1,4 +1,5 @@
 <div align="center">
+<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ```
 ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
@@ -8,84 +9,116 @@
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
 ```
-
-**AI Engineer** — Agentic Systems · RAG Pipelines · Production Backend
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elbadry-0b48992b0)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.hassan221012@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mhmdelbadry1)
-
 </div>
 
----
-
-## `$ whoami`
-
-I'm an AI Engineer based in Alexandria, Egypt — I build things that work in production, not just in notebooks.
-
-My focus is on **agentic LLM systems**, **RAG pipelines**, and **backend infrastructure** for real clients. I've shipped automation solutions across political intelligence, voice assistants, NLP classifiers, and multi-agent workflows — from architecture to deployed and scalable.
-
-Currently finishing my CS degree at Alamein University while taking on freelance AI engineering contracts.
-
----
-
-## `$ ls ./what_i_build`
-
-```
-├── 🕵️  Political intelligence platforms  (800+ monitored figures, government-level)
-├── 🤖  Agentic RAG systems               (multi-agent, LangGraph, n8n workflows)
-├── 🎙️  Voice AI assistants               (Bengali RAG + TTS, sub-5s latency)
-├── 🔌  Backend APIs                       (FastAPI, Redis, Supabase, PostgreSQL)
-└── 🧠  Fine-tuned LLMs                   (NLP classifiers, transformers, quantization)
-```
-
----
-
-## `$ cat ./stack.json`
-
-```json
-{
-  "languages":   ["Python", "SQL", "JavaScript"],
-  "llm_stack":   ["LangChain", "LangGraph", "HuggingFace", "Gemini", "Groq", "OpenAI"],
-  "agents":      ["Agentic RAG", "Multi-Agent Orchestration", "n8n", "Tool Use"],
-  "backend":     ["FastAPI", "Redis", "Supabase", "PostgreSQL", "pgvector", "Docker"],
-  "ml":          ["PyTorch", "TensorFlow", "Scikit-learn", "FAISS", "ChromaDB"],
-  "deployment":  ["Vast.ai", "Azure ML", "AWS", "Vercel", "MLflow"]
-}
-```
-
----
-
-## `$ git log --notable`
-
-**🏛 Egyptian Political Intelligence Platform** *(Dec 2025 – Present)*
-> Production MVP monitoring 800+ political figures — async ingestion pipeline (FastAPI + Redis Queue + pgvector), custom Reputation Engine with EMA scoring, Arabic NER via GLiNER + CAMeLBERT, anti-block scraping. Currently being pitched to government ministries.
-
-**🎙 Bengali Voice RAG Assistant** *(Jun – Jul 2025)*
-> End-to-end voice Q&A system for rural digital booths. Gemma-3n-E2B + FAISS + Whisper + Bengali TTS. 4-bit quantized, SSE streaming, sub-5s latency. Deployed on Vast.ai.
-
-**📡 WiFi-Based Fall Detection** *(Sep 2025 – Present)*
-> Vision Transformer (ViT) on WiFi CSI signals for passive fall detection — targeting ESP32-S3 deployment. Domain adversarial training + curriculum learning pushed accuracy from 52% → 75%.
-
-**📊 Walmart Sales Forecasting** *(Nov 2024 – May 2025)*
-> SARIMAX + Random Forest hybrid on 421K rows, 45 stores. R² = 0.92, RMSE = 1,114. Deployed via Azure ML, tracked with MLflow, 10% RMSE reduction via Bayesian optimization.
-
----
-
-## `$ top`
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdelbadry1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=mhmdelbadry1&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=4" height="150" alt="streak" />
-
+  <a href="www.linkedin.com/in/mohamed-elbadry-0b48992b0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mohamed.hassan221012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
 <div align="center">
-
-*Open to remote contracts and full-time roles — AI engineering, agentic systems, backend.*
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mhmdelbadry1.mhmdelbadry1&"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🔭 I’m working as an AI Engineer<br><br>📚 I’m currently working on my graduation project and learning advanced machine learning, keeping myself updated with the latest AI technologies; I enjoy reading research papers and implementing new ideas, combining multiple approaches into innovative projects<br><br>⚡ In my free time, I work on freelance projects</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdelbadry1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mhmdelbadry1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
